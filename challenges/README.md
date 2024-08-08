@@ -1,7 +1,7 @@
 # C Programming Exercises
 
 This repository contains a series of C programming exercises. The exercises include simple calculations, data manipulations, and formatted outputs. The challenges are designed to improve C programming skills.
-
+![68747470733a2f2f692e706f7374696d672e63632f7270724853684a312f432d636f6d70696c6174696f6e2d70726f636573732e676966](https://github.com/user-attachments/assets/4fa8c861-7c05-4b70-8137-57d821f11f14)
 ## List of Exercises
 
 1. **Odd or Even**
