@@ -35,28 +35,28 @@ This repository contains a series of C programming exercises. The exercises incl
     - Displays a random day of the week.
 
 11. **Display Information**
-   - Program to display personal information: Name, surname, age, gender, and phone number.
+    - Program to display personal information: Name, surname, age, gender, and phone number.
 
 12. **Temperature Display**
-   - Program that converts a temperature from Fahrenheit to Celsius and displays a description of the perceived sensation.
+    - Program that converts a temperature from Fahrenheit to Celsius and displays a description of the perceived sensation.
 
 13. **Calculate and Display Results**
-   - Program to calculate and display the sum, difference, product, quotient, and remainder of dividing two integers.
+    - Program to calculate and display the sum, difference, product, quotient, and remainder of dividing two integers.
 
 14. **Sum and Average of 4 Numbers**
-   - Program to find the sum and average of four numbers.
+    - Program to find the sum and average of four numbers.
 
 15. **Distance Between Two Points**
-   - Program to calculate the distance between two given points using the Euclidean distance formula.
+    - Program to calculate the distance between two given points using the Euclidean distance formula.
 
 16. **Circumference of a Circle**
-   - Program to calculate the circumference of a circle given the radius.
+    - Program to calculate the circumference of a circle given the radius.
 
 17. **Three-Digit Integer in Reverse Order**
-   - Program to display a three-digit integer in reverse order without using a loop.
+    - Program to display a three-digit integer in reverse order without using a loop.
 
 18. **Octal and Hexadecimal Display**
-   - Program to display the equivalent octal and hexadecimal values of an integer.
+    - Program to display the equivalent octal and hexadecimal values of an integer.
 
 19. **Conversion de l'Année**
     - Convertit une année en mois, jours, heures, minutes et secondes avec une option de précision des années bissextiles.
