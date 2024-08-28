@@ -85,3 +85,5 @@ This repository contains a series of C programming exercises. The exercises incl
 27. **Find Common Elements in Two Sequences**
     - Takes two sequences of integers as input and finds all integers that appear in both sequences, displaying them in ascending order. If no common elements are found, it displays a message indicating this.
 
+28. **Sum Before and After Maximum Value**
+    - Accepts a sequence of different values and calculates the sum of the values before and after the maximum value. The sum before the maximum value is 0 if there are no values before the maximum, and the sum after the maximum value is 0 if there are no values after the maximum.
