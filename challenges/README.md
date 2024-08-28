@@ -82,3 +82,6 @@ This repository contains a series of C programming exercises. The exercises incl
 26. **Reverse Substring**
     - reverses the characters in a string between two given positions, `n1` and `n2`.
 
+27. **Find Common Elements in Two Sequences**
+    - Takes two sequences of integers as input and finds all integers that appear in both sequences, displaying them in ascending order. If no common elements are found, it displays a message indicating this.
+
