@@ -76,5 +76,9 @@ This repository contains a series of C programming exercises. The exercises incl
 24. **Reversed Integer**
     - Displays an entered integer in reverse order.
 
-24. **Least Frequent Integer**
-    - displays the integer with the lowest frequency among 'n' entered integers. If there are ties, choose the smallest integer.
+25. **Least Frequent Integer**
+    - displays the integer with the lowest frequency among `n` entered integers. If there are ties, choose the smallest integer.
+
+26. **Reverse Substring**
+    - reverses the characters in a string between two given positions, `n1` and `n2`.
+
